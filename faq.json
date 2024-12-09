@@ -1,0 +1,42 @@
+{
+    "General Questions": [
+        {
+            "question": "What is Astronomy Co.?",
+            "answer": "Astronomy Co. is a platform that provides information and resources about the universe, offering insights on various astronomical phenomena."
+        },
+        {
+            "question": "Is Astronomy Co. free to use?",
+            "answer": "Yes, Astronomy Co. is completely free to use. We aim to share knowledge about the universe without any cost to our users."
+        }
+    ],
+    "Account & Login": [
+        {
+            "question": "How do I create an account?",
+            "answer": "To create an account, simply click on the 'Login / Sign up' link in the navigation bar and fill out the registration form."
+        },
+        {
+            "question": "I forgot my password. What should I do?",
+            "answer": "If you've forgotten your password, click on the 'Forgot Password?' link on the login page to reset it."
+        }
+    ],
+    "Content and Resources": [
+        {
+            "question": "What kind of resources are available?",
+            "answer": "Astronomy Co. offers articles, FAQs, and blog posts covering a variety of topics related to astronomy and space exploration."
+        },
+        {
+            "question": "How frequently is the content updated?",
+            "answer": "Our content is updated regularly to ensure the most accurate and current information is available."
+        }
+    ],
+    "Support": [
+        {
+            "question": "How can I contact support?",
+            "answer": "You can contact support by sending an email to support@astronomyco.com, or through our live chat option available on the Contact page."
+        },
+        {
+            "question": "What should I do if I encounter an issue?",
+            "answer": "If you encounter any issues, please reach out to us through our support email or live chat, and we will assist you as soon as possible."
+        }
+    ]
+}
